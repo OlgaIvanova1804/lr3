@@ -1,0 +1,3 @@
+﻿  lr3.cpp
+C:\Users\Admin\Desktop\2 курс\прога\3lr\lr3\lr3.cpp(264,36): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+  lr3.vcxproj -> C:\Users\Admin\Desktop\2 курс\прога\3lr\lr3\Debug\lr3.exe
